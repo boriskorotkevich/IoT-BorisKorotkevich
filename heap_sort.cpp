@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
     priority_queue<int> pq;
-    int arr[] = {10, 40, 52, 33, 96, 55, 50, 89, 11, 22};
+    int arr[] = {10, 40, 52, 33, 96, 55, 50, 89, 11, 23};
 
     int tam = sizeof(arr) / sizeof(arr[0]);
 
